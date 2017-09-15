@@ -1,0 +1,242 @@
+<p align="left">
+ <strong>
+  <span style="font-family: Arial,Arial; font-size: 12px; color: #ffffff;">
+   Molina Healthcare | Technical How-To
+  </span>
+ </strong>
+</p>
+<p align="left">
+ <span style="font-family: Arial,Arial; font-size: 25px; color: #31849b;">
+  Issue:
+ </span>
+ <span style="font-family: Arial,Arial; font-size: 25px; color: #31849b;">
+  Apple ID – How to Create or Use Account without Payment Method
+ </span>
+</p>
+<p align="left">
+ <strong>
+  <span style="font-family: Arial,Arial; font-size: 12px; color: #343d47;">
+   Context:
+  </span>
+ </strong>
+</p>
+<p align="left">
+ ·
+ <strong>
+  <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+   ROLE:
+  </span>
+ </strong>
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  Enterprise Service Desk
+ </span>
+</p>
+<p align="left">
+ ·
+ <strong>
+  <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+   CONDITIONS:
+  </span>
+ </strong>
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  User would like to create or use their Apple ID without entering any kind of payment information.
+ </span>
+</p>
+<p align="left">
+ <strong>
+  <span style="font-family: Arial,Arial; font-size: 12px; color: #343d47;">
+   Keywords:
+  </span>
+ </strong>
+</p>
+<p align="left">
+ ·
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  Apple ID, new account, existing account, payment, information
+ </span>
+</p>
+<p align="left">
+ <strong>
+  <span style="font-family: Arial,Arial; font-size: 12px; color: #343d47;">
+   Impacted Applications:
+  </span>
+ </strong>
+</p>
+<p align="left">
+ iPhone, iPad, iOS
+</p>
+<p align="left">
+ <strong>
+  <span style="font-family: Arial,Arial; font-size: 12px; color: #ffffff;">
+   How to Resolve
+  </span>
+ </strong>
+</p>
+<p align="left" class="list_Paragraph">
+ 1.
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  From the device, open the
+ </span>
+ <strong>
+  <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+   App Store
+  </span>
+ </strong>
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  .
+ </span>
+</p>
+<p align="left" class="list_Paragraph">
+ 2.
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  Search for
+ </span>
+ <strong>
+  <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+   VIP Access (by Symantec)
+  </span>
+ </strong>
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  .
+ </span>
+</p>
+<p align="left" class="list_Paragraph">
+ 3.
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  Tap the
+ </span>
+ <img alt="iOS Get button" src="/sys_attachment.do?sys_id=673637746fba3e48acd50f1aea3ee475"/>
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  ‘
+ </span>
+ <strong>
+  <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+   Get
+  </span>
+ </strong>
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  ’ button to download and install the app.
+ </span>
+ <img alt="" src="/sys_attachment.do?sys_id=eb3637746fba3e48acd50f1aea3ee475"/>
+</p>
+<p align="left" class="list_Paragraph">
+ 4.
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  When asked to sign in with an Apple ID, tap ‘
+ </span>
+ <strong>
+  <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+   Create New Apple ID
+  </span>
+ </strong>
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  ’.
+ </span>
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  If an account already exists, that can be used as well.
+ </span>
+</p>
+<p align="left" class="list_Paragraph">
+ 5.
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  Follow the onscreen instructions to proceed with creation. When asked for payment information, click under the Credit Card options and choose ‘
+ </span>
+ <strong>
+  <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+   None
+  </span>
+ </strong>
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  ’.
+ </span>
+ <img alt="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/ios/itunes/ios10-iphone6s-app-store-payment-type.png" src="/sys_attachment.do?sys_id=ab3637746fba3e48acd50f1aea3ee4f5"/>
+</p>
+<p align="left" class="list_Paragraph">
+ 6.
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  After information has been entered,
+ </span>
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  the user will need to verify the Apple ID by email. The Apple ID needs to be
+ </span>
+ <strong>
+  <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+   verified
+  </span>
+ </strong>
+ <span style="font-family: Arial,Arial; font-size: 10px; color: #343d47;">
+  before the ID or the VIP Access app can be used.
+ </span>
+</p>
+<p align="left">
+</p>
+<p align="left">
+</p>
+<p align="left">
+</p>
+<p align="left">
+ <span style="font-family: Helvetica,Arial; font-size: 30px; color: #333333;">
+  Create or use your Apple ID without a payment method
+ </span>
+</p>
+<p align="left">
+</p>
+<h2>
+ <span style="font-family: Helvetica,Arial; font-size: 24px; color: #333333;">
+  On an iPhone, or Ipad
+ </span>
+</h2>
+<p align="left">
+ 1.
+ <span style="font-family: Helvetica,Arial; font-size: 13px; color: #333333;">
+  Open the App Store app
+ </span>
+</p>
+<p align="left">
+ 2.
+ <span style="font-family: Helvetica,Arial; font-size: 13px; color: #333333;">
+  Search for VIP Access (by Symantec)
+ </span>
+</p>
+<p align="left">
+ 3.
+ <span style="font-family: Helvetica,Arial; font-size: 13px; color: #333333;">
+  Tap the
+ </span>
+ <img alt="iOS Get button" src="/sys_attachment.do?sys_id=673637746fba3e48acd50f1aea3ee475"/>
+ <span style="font-family: Helvetica,Arial; font-size: 13px; color: #333333;">
+  next to the item, then tap again to get it.
+ </span>
+</p>
+<p align="left">
+ <img alt="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/ios/itunes/ios10-iphone6s-app-store-get.png" src="/sys_attachment.do?sys_id=b73637746fba3e48acd50f1aea3ee4f8"/>
+</p>
+<p align="left">
+ 4.
+ <span style="font-family: Helvetica,Arial; font-size: 13px; color: #333333;">
+  When you're asked to sign in with an Apple ID, tap Create New Apple ID (or if you have one already you can use that too. This information is only between you and apple inc)
+ </span>
+</p>
+<p align="left">
+ 5.
+ <span style="font-family: Helvetica,Arial; font-size: 13px; color: #333333;">
+  Follow the onscreen instructions. When you're asked for payment information, choose
+ </span>
+ <strong>
+  <u>
+   <span style="font-family: Helvetica,Arial; font-size: 13px; color: #333333;">
+    NONE
+   </span>
+  </u>
+ </strong>
+ <span style="font-family: Helvetica,Arial; font-size: 13px; color: #333333;">
+  under the credit card options (such as Visa/Amex etc based on the screenshot below)
+ </span>
+ <img alt="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/ios/itunes/ios10-iphone6s-app-store-payment-type.png" src="/sys_attachment.do?sys_id=ab3637746fba3e48acd50f1aea3ee4f5"/>
+</p>
+<p align="left">
+ 6.
+ <span style="font-family: Helvetica,Arial; font-size: 13px; color: #333333;">
+  After you enter your information, you're asked to verify your Apple ID by email. You must verify your Apple ID before you can begin using it or getting the VIP access app.
+ </span>
+</p>
