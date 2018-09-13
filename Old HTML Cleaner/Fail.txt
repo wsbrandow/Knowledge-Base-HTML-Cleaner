@@ -1,0 +1,24 @@
+cleantextspan1 = re.sub('<span.*?>', '', cleantextp, flags=re.DOTALL)
+    return cleantextspan1
+    cleantextspan2 = re.sub('<.*?/span>', '', cleantextspan1, flags=re.DOTALL)
+    return cleantextspan2
+    cleantextH1_1 = re.sub('<h1.*?>', '<h1>', cleantextspan2, flags=re.DOTALL)
+    return cleantextH1_1
+    cleantextH1_2 = re.sub('<.*?/h1>', '</h1>', cleantextH1_1, flags=re.DOTALL)
+    return cleantextH1_2
+    cleantextH2_1 = re.sub('<h2.*?>', '<h2>', cleantextH1_2, flags=re.DOTALL)
+    return cleantextH2_1
+    cleantextH2_2 = re.sub('<.*?/h2>', '</h2>', cleantextH2_1, flags=re.DOTALL)
+    return cleantextH2_2
+    cleantextH3_1 = re.sub('<h3.*?>', '<h3>', cleantextH2_2, flags=re.DOTALL)
+    return cleantextH3_1
+    cleantextH3_2 = re.sub('<.*?/h3>', '</h3>', cleantextH3_1, flags=re.DOTALL)
+    return cleantextH3_2
+    cleantextStrong1 = re.sub('<strong.*?>', '', cleantextH3_2, flags=re.DOTALL)
+    return cleantextStrong1
+    cleantextStrong2 = re.sub('<.*?/strong>', '', cleantextStrong1, flags=re.DOTALL)
+    return cleantextStrong2
+    cleantextItalic1 = re.sub('<i.*?>', '', cleantextStrong2, flags=re.DOTALL)
+    return cleantextItalic1
+    cleantextItalic2 = re.sub('<.*?/i>', '</i>', cleantextItalic1, flags=re.DOTALL)
+    return cleantextItalic2
